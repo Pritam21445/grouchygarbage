@@ -1,0 +1,44 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px;">Frequently Asked Questions in #State</h2>
+                <h4 class="template4 palooma">Where do you dispose of your waste?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">As a dumpster rental company that believes in green initiatives, we give most of the waste we collect a second life by turning them into reusable items. Instead of sending everything straight to the landfill, we take them to upcycling centers, recycling facilities, and charity homes.</p>
+                <h4 class="template4 palooma">What kinds of items can be recycled or donated?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We upcycle items that are gently used, like furniture, electronics, wood, metal scraps, cardboard, and clothing. Items in good condition are donated to local charity homes, while recyclable materials are sent to appropriate facilities for processing.</p>
+                <h4 class="template4 palooma">When will my roll-off dumpster be delivered?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> We usually deliver roll-off dumpsters within 24 to 48 hours after your order is confirmed. In many cases, we can even offer same-day delivery depending on availability and the time you place your request. During the booking process, we’ll give you a clear delivery window so you know exactly when to expect your dumpster.</p>
+                <h4 class="template4 palooma">Do you collect payment before delivery for emergency dumpster rentals?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> Yes, for emergency dumpster rentals, we typically require payment before delivery. This helps us process your request quickly and secure the dumpster for immediate dispatch. Once payment is confirmed, we prioritize your delivery to ensure it arrives as soon as possible.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
